@@ -1,0 +1,5 @@
+Day 1: Creating file
+
+Day 2: Modifying file
+
+Day 3: This file is ready for release
